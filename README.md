@@ -14,23 +14,15 @@ Gists about me...
  
  - :two_men_holding_hands: Looking for collaboration in coding interview preparation.
  
- 
+ - :mag: Find me on:&nbsp; <a href="https://www.linkedin.com/in/saptarshi-neogi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saptarshi-neogi" height="25" width="25" /></a> &nbsp;
+<a href="https://www.instagram.com/neogisaptarshi/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neogisaptarshi" height="25" width="25" /></a> &nbsp;
+<a href="https://www.youtube.com/channel/UCfkz41c-uzNavOp8zlkuTIA/featured?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="saptarshineogi" height="25" width="25" /></a> &nbsp;
+<a href="https://in.mathworks.com/matlabcentral/profile/authors/16939921?s_tid=gn_comm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mathworks.svg" alt="saptarshi-neogi" height="25" width="25" /></a> &nbsp;
+<a href="https://www.kaggle.com/saptarshineogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="saptarshineogi" height="25" width="25" /></a> &nbsp;
+
  
  
  
  
 
-<!--
-**Saptarshi-prog/Saptarshi-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
