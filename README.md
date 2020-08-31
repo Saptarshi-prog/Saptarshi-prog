@@ -22,7 +22,7 @@ Gists about me...
 <a href="https://www.kaggle.com/saptarshineogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="saptarshineogi" height="25" width="25" /></a> &nbsp;
 
  
- 
+ <img src = "https://github-readme-stats.vercel.app/api?username=Saptarshi-prog&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-prog&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
  
 
