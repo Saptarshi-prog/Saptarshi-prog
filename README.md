@@ -10,7 +10,7 @@
 
 Gists about me...
 
- -  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/> I’m currently learning Algorithms, Data Structures and Python.
+ -  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-madoka.gif"/>  I’m currently learning Algorithms, Data Structures and Python.
  <img align="right" alt="coding from home" src= "https://camo.githubusercontent.com/410dd0b1b800cd1e13965237beee2a32474be978/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height = 250 width = 300/>
  
  -  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-homura.gif"/> Currently I am working on enhancing my coding skills and MATLAB for Digital Signal Processing.
