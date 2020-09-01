@@ -21,6 +21,12 @@ Gists about me...
 <a href="https://in.mathworks.com/matlabcentral/profile/authors/16939921?s_tid=gn_comm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mathworks.svg" alt="saptarshi-neogi" height="25" width="25" /></a> &nbsp;
 <a href="https://www.kaggle.com/saptarshineogi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="saptarshineogi" height="25" width="25" /></a> &nbsp;
 
+### Languages and Tools:
+
+<img align="center" alt="Python" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a> &nbsp;
+<img align="center" alt="MATLAB" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /></a> &nbsp;
+<img align="center" alt="Visual Studio Code" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a> &nbsp;
+<img align="center" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a> &nbsp;
  
  <img src = "https://github-readme-stats.vercel.app/api?username=Saptarshi-prog&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saptarshi-prog&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
