@@ -1,12 +1,17 @@
 ### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="70" height="70" /> I'm SAPTARSHI <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=50 height=50 /> 
 
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Saptarshi-prog.Saptarshi-prog)
 
 <p align="left">
  <a href="https://www.linkedin.com/in/saptarshi-neogi-04461416b/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/Saptarshi-prog"><img src="https://img.shields.io/github/followers/Saptarshi-prog.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
+
+<a href="https://dev.to/saptarshiprog">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saptarshi Neogi's DEV Profile" height="30" width="30">
+</a>
 
 Gists about me...
 
