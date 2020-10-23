@@ -9,9 +9,7 @@
 	<a href="https://github.com/Saptarshi-prog"><img src="https://img.shields.io/github/followers/Saptarshi-prog.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
-<a href="https://dev.to/saptarshiprog">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Saptarshi Neogi's DEV Profile" height="30" width="30">
-</a>
+
 
 Gists about me...
 
