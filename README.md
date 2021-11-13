@@ -17,7 +17,7 @@ Gists about me...
 
 
  
- -  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/>  Currently a 3rd Year Electronics and Communication Engineering Student.
+ -  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-mami.gif"/>  Currently a 4th Year Electronics and Communication Engineering Student.
  
  -  <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/soulgem-kyoko.gif"/> I am always looking for challenging work oppurtunities ahead.
  
